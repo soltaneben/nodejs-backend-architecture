@@ -1,0 +1,4 @@
+{
+    "mongoURI": "INSERT-MONGOURI-HERE",
+    "jwtSecret": "INSERT-JWT-HERE"
+}
